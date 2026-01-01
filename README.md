@@ -27,7 +27,6 @@ _No backend required._
 ## Academic Context
 Data Integration and Visualization – Fall 2025  
 Instructor: Prof. Khaled Mostafa  
-TA: Eng. Mahmoud Talaat  
 
 ## Author
 **Moatasem Elgharbawy**
